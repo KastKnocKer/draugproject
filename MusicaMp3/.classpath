@@ -9,5 +9,13 @@
 	<classpathentry kind="lib" path="JMF/multiplayer.jar"/>
 	<classpathentry kind="lib" path="JMF/sound.jar"/>
 	<classpathentry kind="lib" path="jaudiotaggersrc.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/jaudiotagger.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/jaudiotaggersrc.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/asm-2.2.1.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/asm-tree-2.2.1.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/cobertura.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/junit.jar"/>
+	<classpathentry kind="lib" path="Jaudiotagger/log4j-1.2.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
